@@ -1,4 +1,4 @@
-# Pipeline_Performance_-_Risk_Analytics_Powerviz
+# Pipeline_Performance_Risk_Analytics_Powerviz
 To identify conversion trends and regional growth opportunities while providing deep-dive insights into funnel attrition and at-risk deals.
 
 I’m thrilled to share a deep dive into our latest Strategic Growth & Pipeline Analytics project! By leveraging the advanced capabilities of PowerViz visuals, we’ve transformed complex data into a clear, actionable narrative to bridge our target gaps. 
